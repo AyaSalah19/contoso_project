@@ -1,11 +1,11 @@
 # Contoso Sales Analysis
 
 ## Overview
-
+Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 ## Business Questions
-1.
+1.Customer Segmentation: Who are our most valuable customers?
 2. **Cohort Analysis:** How do different customer groups generate revenue?
-3.
+3.Retention Analysis: Which customers haven't purchased recently?
 ## Analysis Approach
 
 ### 1.Customer Segmentation Analysis
@@ -17,7 +17,7 @@
 [1_customer_segmentation](/1_customer_segmentation.sql)
 
 📈**Visualization:** 
-![](/images/1_customer_segmentation.jpg)
+![lifetime value](/images/1_customer_segmentation.jpg)
 
 📊**Key Findings:**
 
